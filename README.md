@@ -41,3 +41,7 @@ LeetCode Grind 75를 유형별로 풀고 기록하는 저장소입니다.
 | graph | 0 |
 | dp | 0 |
 | math | 0 |
+
+## Grind 75 진행 목록
+
+지금 풀 수 있는 문제와 나중에 풀 문제는 [GRIND75.md](GRIND75.md)에서 관리한다.
