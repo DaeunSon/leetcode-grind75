@@ -40,7 +40,7 @@ LeetCode Grind 75를 유형별로 풀고 기록하는 저장소입니다.
 | tree | 0 |
 | graph | 0 |
 | dp | 0 |
-| math | 0 |
+| math | 1 |
 
 ## Grind 75 진행 목록
 
