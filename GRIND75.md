@@ -3,7 +3,7 @@
 공부한 주제 기준으로 **지금 풀 수 있는 문제**와 **나중에 풀 문제**를 나눈 목록이다.
 
 - 기준 시점: `algorithm-notes`의 00 시간복잡도, 01 해시, 02 스택/큐, 03 정렬까지 공부함
-- 진행: 완료 11 / 75, 지금 풀 수 있음 21
+- 진행: 완료 12 / 75, 지금 풀 수 있음 21
 
 ## 쓰는 방법
 
@@ -25,7 +25,7 @@
 | 6 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | | |
 | 7 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 완료 | [메모](two-pointers/ValidPalindrome.md) |
 | 8 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | 완료 | [메모](stack-queue/ImplementQueueUsingStacks.md) |
-| 9 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | 진행 중 | |
+| 9 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | 완료 | [메모](hash/LongestPalindrome.md) |
 | 10 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | | |
 | 11 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | | |
 | 12 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | | |
