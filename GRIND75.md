@@ -3,7 +3,7 @@
 공부한 주제 기준으로 **지금 풀 수 있는 문제**와 **나중에 풀 문제**를 나눈 목록이다.
 
 - 기준 시점: `algorithm-notes`의 00 시간복잡도, 01 해시, 02 스택/큐, 03 정렬까지 공부함
-- 진행: 완료 10 / 75, 지금 풀 수 있음 21
+- 진행: 완료 11 / 75, 지금 풀 수 있음 21
 
 ## 쓰는 방법
 
@@ -32,7 +32,7 @@
 | 13 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | | |
 | 14 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | | |
 | 15 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | 완료 | [메모](hash/RansomNote.md) |
-| 16 | [Min Stack](https://leetcode.com/problems/min-stack/) | | |
+| 16 | [Min Stack](https://leetcode.com/problems/min-stack/) | 완료 (재풀이 필요) | [메모](stack-queue/MinStack.md) |
 | 17 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | | |
 | 18 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | | |
 | 19 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | | |
