@@ -3,7 +3,7 @@
 공부한 주제 기준으로 **지금 풀 수 있는 문제**와 **나중에 풀 문제**를 나눈 목록이다.
 
 - 기준 시점: `algorithm-notes`의 00 시간복잡도, 01 해시, 02 스택/큐, 03 정렬까지 공부함
-- 진행: 완료 9 / 75, 지금 풀 수 있음 21
+- 진행: 완료 10 / 75, 지금 풀 수 있음 21
 
 ## 쓰는 방법
 
@@ -18,7 +18,7 @@
 | # | 문제 | 상태 | 풀이 |
 |---|---|---|---|
 | 1 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 완료 | [메모](stack-queue/ValidParentheses.md) |
-| 2 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | | |
+| 2 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 완료 | [메모](sorting/KClosestPointsToOrigin.md) |
 | 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | 완료 | [메모](hash/TwoSum.md) |
 | 4 | [Add Binary](https://leetcode.com/problems/add-binary/) | 완료 (재풀이 필요) | [메모](math/AddBinary.md) |
 | 5 | [Majority Element](https://leetcode.com/problems/majority-element/) | 완료 | [메모](hash/MajorityElement.md) |
