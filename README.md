@@ -34,7 +34,7 @@ LeetCode Grind 75를 유형별로 풀고 기록하는 저장소입니다.
 | hash | 4 |
 | two-pointers | 1 |
 | stack-queue | 3 |
-| sorting | 1 |
+| sorting | 2 |
 | binary-search | 0 |
 | linked-list | 0 |
 | tree | 0 |
