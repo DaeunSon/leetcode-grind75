@@ -30,7 +30,7 @@
 | 11 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 완료 | [메모](hash/ContainsDuplicate.md) |
 | 12 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 완료 | [메모](stack-queue/EvaluateReversePolishNotation.md) |
 | 13 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 완료 | [메모](array/BestTimeToBuyAndSellStock.md) |
-| 14 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 완료 (재풀이 필요) | [메모](sorting/SortColors.md) |
+| 14 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 완료 | [메모](sorting/SortColors.md) |
 | 15 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | 완료 | [메모](hash/RansomNote.md) |
 | 16 | [Min Stack](https://leetcode.com/problems/min-stack/) | 완료 (재풀이 필요) | [메모](stack-queue/MinStack.md) |
 | 17 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | | |
