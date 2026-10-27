@@ -29,7 +29,7 @@ LeetCode Grind 75를 유형별로 풀고 기록하는 저장소입니다.
 
 | 유형 | 푼 문제 수 |
 |---|---|
-| array | 2 |
+| array | 3 |
 | string | 2 |
 | hash | 5 |
 | two-pointers | 1 |
