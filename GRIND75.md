@@ -3,7 +3,7 @@
 공부한 주제 기준으로 **지금 풀 수 있는 문제**와 **나중에 풀 문제**를 나눈 목록이다.
 
 - 기준 시점: `algorithm-notes`의 00 시간복잡도, 01 해시, 02 스택/큐, 03 정렬까지 공부함 (04 이분 탐색 공부 중)
-- 진행: 완료 23 / 75, 지금 풀 수 있음 21
+- 진행: 완료 24 / 75, 지금 풀 수 있음 21
 
 ## 쓰는 방법
 
@@ -60,7 +60,7 @@
 
 - [x] [Binary Search](https://leetcode.com/problems/binary-search/) · [메모](binary-search/BinarySearch.md)
 - [x] [First Bad Version](https://leetcode.com/problems/first-bad-version/) · [메모](binary-search/FirstBadVersion.md)
-- [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) · [메모](binary-search/SearchInRotatedSortedArray.md) (재풀이 필요)
 - [ ] [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) (해시도 필요)
 - [ ] [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) (DP도 필요)
 
