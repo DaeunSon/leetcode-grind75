@@ -3,7 +3,7 @@
 공부한 주제 기준으로 **지금 풀 수 있는 문제**와 **나중에 풀 문제**를 나눈 목록이다.
 
 - 기준 시점: `algorithm-notes`의 00 시간복잡도, 01 해시, 02 스택/큐, 03 정렬까지 공부함 (04 이분 탐색 공부 중)
-- 진행: 완료 25 / 75, 지금 풀 수 있음 21
+- 진행: 완료 27 / 75, 지금 풀 수 있음 21
 
 ## 쓰는 방법
 
@@ -69,8 +69,8 @@
 <details>
 <summary>05 투 포인터, 슬라이딩 윈도우 · 5문제</summary>
 
-- [ ] [3Sum](https://leetcode.com/problems/3sum/)
-- [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [x] [3Sum](https://leetcode.com/problems/3sum/) · [메모](two-pointers/ThreeSum.md)
+- [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) · [메모](two-pointers/ContainerWithMostWater.md) (재풀이 필요)
 - [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
