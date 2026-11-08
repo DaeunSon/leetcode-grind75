@@ -27,3 +27,15 @@
   - 틀 1: `left <= right` + `left = mid + 1` / `right = mid - 1` (양쪽 모두 `mid`를 버림)
   - 틀 2: `left < right` + `right = mid` / `left = mid + 1` (`mid`를 남기는 쪽이 있으므로 `left == right`에서 멈춰야 함)
 - `n`이 최대 2³¹ − 1이라 `(left + right) / 2`는 넘친다 → `left + (right - left) / 2`.
+
+## 재풀이 기록 (2026-11-08)
+
+- 결과: △ (첫 시도는 투 포인터, 틀 1 + answer 뼈대를 받고 통과)
+- 첫 시도: `left++`, `right--`로 양끝에서 한 칸씩 좁히며 양쪽을 다 `isBadVersion`으로 확인 → O(n)이라 n이 21억이면 시간 초과.
+  - `int min = n + 1;`도 n이 `Integer.MAX_VALUE`면 넘쳐서 음수가 되어 답이 1로 고정되는 버그.
+- 이분 탐색과 투 포인터 혼동 이번 주 네 번째 (Two Sum, Search in Rotated, 3Sum, 이번).
+  - 투 포인터: 한 칸씩 움직임, `mid` 없음, 짝/합 찾기
+  - 이분 탐색: `mid`를 물어보고 **절반을 버림**, "여기서부터 쭉 참/거짓"인 경계 찾기
+- 최종 코드는 틀 1 + answer: bad면 `answer = mid; right = mid - 1;` (후보 저장 후 더 앞을 봄), good이면 `left = mid + 1;`.
+  - 예전엔 틀 2(`left < right`, `right = mid`)로 풀었는데, 틀 1 + answer는 `while` 조건과 갱신 짝을 헷갈릴 일이 없다.
+  - `answer = 0`으로 시작해도 되는 건 bad 버전이 반드시 하나 있다는 조건 때문.
