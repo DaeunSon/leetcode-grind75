@@ -23,3 +23,11 @@
 - 마지막에 `stack.isEmpty()`를 반환해야 `"("`처럼 열린 괄호가 남은 경우를 걸러낸다.
 - 짝 확인은 `if` 세 개 대신 `Map<Character, Character>`(`')' → '('` 등)로 할 수도 있다.
 - 길이가 홀수면 짝이 맞을 수 없어서 바로 `false`를 반환할 수 있다 (선택).
+
+## 재풀이 기록 (2026-11-08)
+
+- 결과: ○ (힌트 없이 혼자 통과)
+- 스택 쌓기, `pop()` 전 `isEmpty()` 확인, 마지막 `stack.isEmpty()` 확인 세 가지를 모두 처음부터 넣음. 지난번에 설명받았던 부분이 이번엔 다 기억남.
+- 다듬을 점 (정답과는 무관):
+  - `s.charAt(i)`를 여러 번 쓰는 대신 `char ch = s.charAt(i);`로 한 번만 꺼내면 읽기 쉽다.
+  - `if (stack.isEmpty()) return true; else return false;`는 `return stack.isEmpty();` 한 줄로 줄일 수 있다.
