@@ -80,7 +80,7 @@
 <details>
 <summary>07 재귀 + 트리 (트리 노트 폴더 아직 없음) · 11문제</summary>
 
-- [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 - [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
