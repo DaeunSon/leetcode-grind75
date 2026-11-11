@@ -47,7 +47,7 @@
 <summary>연결 리스트 (노트 폴더 아직 없음) · 6문제</summary>
 
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [ ] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) (힙도 필요)
