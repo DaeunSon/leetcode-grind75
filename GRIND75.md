@@ -48,7 +48,7 @@
 
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [ ] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) (힙도 필요)
 - [ ] [LRU Cache](https://leetcode.com/problems/lru-cache/) (해시도 필요)
