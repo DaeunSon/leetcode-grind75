@@ -31,3 +31,14 @@
 - 다듬을 점 (정답과는 무관):
   - `s.charAt(i)`를 여러 번 쓰는 대신 `char ch = s.charAt(i);`로 한 번만 꺼내면 읽기 쉽다.
   - `if (stack.isEmpty()) return true; else return false;`는 `return stack.isEmpty();` 한 줄로 줄일 수 있다.
+
+## 재풀이 기록 (2026-11-13, 면접 당일 워밍업, Google Docs 백지)
+
+- 결과: ○ (힌트 없이 로직 정답)
+- 잘한 것: 코드 전에 "이중 for 대신 스택"이라고 근거를 말함 / `false` 세 경우(짝 불일치, 닫는 괄호가 먼저, 여는 괄호가 남음)를 모두 처리 / 엣지 케이스마다 어느 줄이 처리하는지 설명 / 시간·공간 복잡도 근거까지 말함
+- 고칠 곳
+  - **Google Docs 스마트 따옴표**: `'('`가 `’(‘`로 바뀜 → 실제 Java에서는 컴파일 에러. 도구 → 환경설정 → "스마트 따옴표 사용" 끄기
+  - `import java.util.*;` 생략
+  - `s.length() == 0` 처리 → 제약이 `s.length >= 1`이라 불필요 (틀린 건 아님). "빈 배열"이 아니라 "빈 문자열". Two Sum에 이어 두 번째로 제약 안 보고 엣지 케이스를 말함
+  - 마지막 `if (!stack.isEmpty()) return false; else return true;` → `return stack.isEmpty();`
+- 다음에 떠올릴 한 문장: "**엣지 케이스는 제약부터 본다.** Docs에서는 따옴표가 바뀌지 않았는지 확인한다."
