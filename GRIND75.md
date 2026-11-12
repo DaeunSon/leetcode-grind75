@@ -101,7 +101,7 @@
 - [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [ ] [01 Matrix](https://leetcode.com/problems/01-matrix/)
 - [ ] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
-- [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 - [ ] [Word Ladder](https://leetcode.com/problems/word-ladder/)
 - [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/)
