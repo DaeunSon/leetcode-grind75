@@ -126,6 +126,7 @@
 <summary>12 누적 합 · 1문제</summary>
 
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [x] [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) · [메모](array/RangeSumQueryImmutable.md) (Grind 75 외, 누적 합 기본 연습)
 
 </details>
 
