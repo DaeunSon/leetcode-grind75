@@ -3,7 +3,7 @@
 공부한 주제 기준으로 **지금 풀 수 있는 문제**와 **나중에 풀 문제**를 나눈 목록이다.
 
 - 기준 시점: `algorithm-notes`의 00 시간복잡도 ~ 06 구현/시뮬레이션까지 공부함 (07 재귀 공부 중, 2026-11-09)
-- 진행: 완료 27 / 75, 지금 풀 수 있음 21
+- 진행: 완료 28 / 75, 지금 풀 수 있음 21
 
 ## 쓰는 방법
 
@@ -82,7 +82,7 @@
 
 - [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-- [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+- [x] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) · [메모](tree/BalancedBinaryTree.md) (재풀이 필요)
 - [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [ ] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
