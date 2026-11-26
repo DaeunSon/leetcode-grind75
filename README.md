@@ -67,7 +67,7 @@ int dfs(TreeNode node) {
 | sorting | 4 |
 | binary-search | 5 |
 | linked-list | 0 |
-| tree | 5 |
+| tree | 6 |
 | graph | 0 |
 | dp | 0 |
 | math | 1 |
